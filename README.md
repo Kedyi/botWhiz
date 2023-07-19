@@ -1,0 +1,2 @@
+# botWhiz
+## The AI Buddy 
